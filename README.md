@@ -1,2 +1,2 @@
-# Proyecto de Gestion de Proyectos I en la Universidad de Huánuco
+# Proyecto de Gestión de Proyectos I en la Universidad de Huánuco
 ---
